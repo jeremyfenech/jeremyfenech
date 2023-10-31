@@ -1,4 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jeremy</h1>
+<h3 align="center">An enthusiastic Artificial Intelligence student</h3>
+
+<h3 align="left">✍ About me</h3>
+
+- 🔭 I’m currently working at [KPMG Malta](https://kpmg.com/mt/en/home.html) with the internal DevOps team.
+
+- 🌱 I’m currently studying Artificial Intelligence at the [University of Malta](https://www.linkedin.com/school/university-of-malta/).
+
+- 📫 How to reach me **jeremyfenech03@gmail.com**.
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jeremyfenech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremyfenech" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jeremyfen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeremyfen" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
 
@@ -11,18 +29,3 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--
-**jeremyfenech/jeremyfenech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
