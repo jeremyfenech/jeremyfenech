@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">An enthusiastic Artificial Intelligence student</h3>
+<h3 align="center">An eager Artificial Intelligence student</h3>
 
 <h3 align="left">✍ About me</h3>
 
