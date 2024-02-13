@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            6 hrs 22 mins   ████████████████████▒░░░░   81.40 %
-Other          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Python         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-OpenEdge ABL   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
