@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 mins         ██████████▓░░░░░░░░░░░░░░   42.67 %
-YAML         8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-EJS          4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Docker       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
