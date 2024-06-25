@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        5 mins          ████████████████████████░   95.55 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
