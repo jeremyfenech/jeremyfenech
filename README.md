@@ -3,9 +3,9 @@
 
 <h3 align="left">✍ About me</h3>
 
-- 🔭 I’m currently working at [KPMG Malta](https://kpmg.com/mt/en/home.html) with the internal DevOps team.
+- 🔭 I’m currently working at [RocketFin](https://rocketfin.co) as a Junior Software Developer.
 
-- 🌱 I’m currently studying Artificial Intelligence at the [University of Malta](https://www.linkedin.com/school/university-of-malta/).
+- 🌱 Finished a Bachelor's of Science in Artificial Intelligence at the [University of Malta](https://www.linkedin.com/school/university-of-malta/).
 
 - 📫 How to reach me **jeremyfenech03@gmail.com**.
 
