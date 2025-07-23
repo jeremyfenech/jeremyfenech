@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      22 hrs 38 mins  ███████████████████████▒░   93.50 %
-JSON            1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JavaScript      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript      22 hrs 9 mins   ███████████████████████▓░   94.94 %
+JSON            1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 Jest Snapshot   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+HTML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
