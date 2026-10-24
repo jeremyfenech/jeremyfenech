@@ -3,7 +3,7 @@
 
 <h3 align="left">✍ About me</h3>
 
-- 🔭 I’m currently working at [RocketFin](https://rocketfin.co) as a Junior Software Developer.
+- 🔭 I’m currently working.
 
 - 🌱 Finished a Bachelor's of Science in Artificial Intelligence at the [University of Malta](https://www.linkedin.com/school/university-of-malta/).
 
